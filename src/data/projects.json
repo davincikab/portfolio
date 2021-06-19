@@ -1,0 +1,34 @@
+{
+    "mapbox":[
+        {
+            "id":1,
+            "title":"Marine Tracking Application",
+            "url":"",
+            "images":[
+                "/mapbox/praesidium.png",
+                "/mapbox/praesidium_search.png"
+            ]
+        }
+    ],
+    "leaflet":[
+        {
+            "id":1,
+            "title":"Archeology Tracking",
+            "url":"",
+            "images":[
+                "/leaflet/archeology_one.png",
+                "/leaflet/archeology_slider.png"
+            ]
+        }
+    ],
+    "googlemaps":[
+        {
+            "id":1,
+            "title":"Intro to google maps",
+            "url":"",
+            "images":[
+                "/bg_image.jfif"
+            ]
+        }
+    ]
+}
